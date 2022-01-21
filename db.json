@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "email": "iasmin@ias.com",
+      "password": "$2a$10$FF0sdVVvso.D.0s03IgZ8eeMMWXslzSrL/woB657lHpo7joXhFxhm",
+      "name": "ias",
+      "id": 1
+    },
+    {
+      "email": "osmar@osmar.com",
+      "password": "$2a$10$pkxknPW7zzmwM.B6qv2tPekNeW0EKb7sxY2riQ2qpYj5WShIOxsxW",
+      "name": "Sidny Silva",
+      "id": 8
+    },
+    {
+      "email": "osmawr@osmar.com",
+      "password": "$2a$10$HJAAR3rSy9bSx6R31B/jw.PvuIVbeDEtrY9IrsPwTPap.XN0dlinO",
+      "name": "Sidny Silva",
+      "id": 9
+    },
+    {
+      "email": "sid@sid.com",
+      "password": "$2a$10$LeydfwAcq.TjxCaZTDI/r..B8hCf0OqPhjxLC0ZL1MaCpDc0aVgXO",
+      "name": "sid",
+      "id": 10
+    },
+    {
+      "email": "cas@cas.com",
+      "password": "$2a$10$2zi2r7nmBx9E9AT/iW1ZcOIrFN.zuKRSZYZnP394j6SeWafWE2zIO",
+      "name": "cas",
+      "id": 11
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": 14,
+      "img": "https://i.ibb.co/fpVHnZL/hamburguer.png"
+    },
+    {
+      "id": 2,
+      "name": "X-Burguer",
+      "category": "Sanduíches",
+      "price": 16,
+      "img": "https://i.ibb.co/djbw6LV/x-burgue.png"
+    },
+    {
+      "id": 3,
+      "name": "Big Kenzie",
+      "category": "Sanduíches",
+      "price": 18,
+      "img": "https://i.ibb.co/FYBKCwn/big-kenzie.png"
+    },
+    {
+      "id": 4,
+      "name": "Fanta Guaraná",
+      "category": "Bebidas",
+      "price": 5,
+      "img": "https://i.ibb.co/cCjqmPM/fanta-guarana.png"
+    },
+    {
+      "id": 5,
+      "name": "Coca",
+      "category": "Bebidas",
+      "price": 5,
+      "img": "https://i.ibb.co/fxCGP7k/coca-cola.png"
+    },
+    {
+      "id": 6,
+      "name": "MilkShake",
+      "category": "Bebidas",
+      "price": 5,
+      "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png"
+    }
+  ]
+}
