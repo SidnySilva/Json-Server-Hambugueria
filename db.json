@@ -29,6 +29,12 @@
       "password": "$2a$10$2zi2r7nmBx9E9AT/iW1ZcOIrFN.zuKRSZYZnP394j6SeWafWE2zIO",
       "name": "cas",
       "id": 11
+    },
+    {
+      "email": "sodyy@sodyy.com",
+      "password": "$2a$10$Oz7DWI9AizKHLKaUKkoCieXzfJyEMrlTi9F1IMRhpc7xfq.X6WETq",
+      "name": "Sidny Silva",
+      "id": 12
     }
   ],
   "products": [
@@ -37,42 +43,48 @@
       "name": "Hamburguer",
       "category": "Sanduíches",
       "price": 14,
-      "img": "https://i.ibb.co/fpVHnZL/hamburguer.png"
+      "img": "https://i.ibb.co/fpVHnZL/hamburguer.png",
+      "qtd": 1
     },
     {
       "id": 2,
       "name": "X-Burguer",
       "category": "Sanduíches",
       "price": 16,
-      "img": "https://i.ibb.co/djbw6LV/x-burgue.png"
+      "img": "https://i.ibb.co/djbw6LV/x-burgue.png",
+      "qtd": 1
     },
     {
       "id": 3,
       "name": "Big Kenzie",
       "category": "Sanduíches",
       "price": 18,
-      "img": "https://i.ibb.co/FYBKCwn/big-kenzie.png"
+      "img": "https://i.ibb.co/FYBKCwn/big-kenzie.png",
+      "qtd": 1
     },
     {
       "id": 4,
       "name": "Fanta Guaraná",
       "category": "Bebidas",
       "price": 5,
-      "img": "https://i.ibb.co/cCjqmPM/fanta-guarana.png"
+      "img": "https://i.ibb.co/cCjqmPM/fanta-guarana.png",
+      "qtd": 1
     },
     {
       "id": 5,
       "name": "Coca",
       "category": "Bebidas",
       "price": 5,
-      "img": "https://i.ibb.co/fxCGP7k/coca-cola.png"
+      "img": "https://i.ibb.co/fxCGP7k/coca-cola.png",
+      "qtd": 1
     },
     {
       "id": 6,
       "name": "MilkShake",
       "category": "Bebidas",
       "price": 5,
-      "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png"
+      "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png",
+      "qtd": 1
     }
   ]
 }
